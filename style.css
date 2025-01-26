@@ -1,8 +1,14 @@
 body {
-    background-color: tan;
+    background-color: #E2E0C8;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: maroon;
+    color: #5C7285;
     text-align: center;
+}
+
+img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 120px;
 }
